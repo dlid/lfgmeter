@@ -1,0 +1,17 @@
+{
+  "name": "lfgmeter",
+  "version": "1.0.0",
+  "description": "WoW Classic Addon to parse LFG messages and present them to the user",
+  "main": "index.js",
+  "scripts": {
+    "watch": "jest --watch --verbose false",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-stare": "^2.5.2",
+    "lua-in-js": "^2.2.5"
+  }
+}

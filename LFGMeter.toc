@@ -1,0 +1,12 @@
+## Interface: 11504
+## Title: LFGMeter
+## Notes: Addon to parse LFG messages and present them to the player
+## Author: Dlid
+## Version: 0.0.1
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter: LFGMeterDb
+
+ParseMessage.lua
+LFGMeter.lua
